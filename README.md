@@ -324,7 +324,7 @@ MinGW-w64:
 
 ### Why are you using MinGW-w64 7.3.0 and not 8.1.0?
 
-- According to this github issue, [`[gdb] [windows] unknown target exception 0x4000001f at 0x40163e #2285`](`https://github.com/Microsoft/vscode-cpptools/issues/2285`), there is an ongoing problem with with MinGW-w64 8.1.0 where the 64bit `gdb` crashes frequently. The `gdb` is the debugger for the compiler.
+- According to this github issue, [`[gdb] [windows] unknown target exception 0x4000001f at 0x40163e #2285`](https://github.com/Microsoft/vscode-cpptools/issues/2285), there is an ongoing problem with with MinGW-w64 8.1.0 where the 64bit `gdb` crashes frequently. The `gdb` is the debugger for the compiler.
 
 ## Acknowledgements
 
