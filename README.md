@@ -2,7 +2,7 @@
 
 - This is a repo specifically made to setup and test C/C++ on Visual Studio Code for Windows 10
 
-- The original instructions on setting up C/C++ for various platforms can be found using the following link: [`https://code.visualstudio.com/docs/languages/cpp`](`https://code.visualstudio.com/docs/languages/cpp`)
+- The original instructions on setting up C/C++ for various platforms can be found using the following link: [`https://code.visualstudio.com/docs/languages/cpp`](https://code.visualstudio.com/docs/languages/cpp)
 
 - The link includes setups for C++ and other specific environments such as WSL, Mingw-w64, Clang/LLVM on macOS, and MSVC.
 
@@ -289,7 +289,7 @@ MinGW-w64:
 
 - Click the green play button to see the debugging in action.
 
-- If you would like to know how to use the debugger, please visit [`https://code.visualstudio.com/docs/languages/cpp`](`https://code.visualstudio.com/docs/languages/cpp`)
+- If you would like to know how to use the debugger, please visit [`https://code.visualstudio.com/docs/languages/cpp`](https://code.visualstudio.com/docs/languages/cpp)
 
 ## FAQ
 
