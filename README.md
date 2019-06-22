@@ -61,7 +61,7 @@
 
 2. Scroll down under `System variables` and look for `Path`. Double click it. (You can also click on `Path` once, then click on `Edit`).
 
-3. Scroll down on `Edit environment variable` and click `New`. Type in the path to where your file is installed. In this case it should be under `C:\MinGW\bin` or `C:\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin`, depending on the version you've installed. Proceed by clicking `Ok`.
+3. Scroll down on `Edit environment variable` and click `New`. Type in the path to where your file is installed. In this case it should be under `C:\MinGW\bin` or `C:\mingw-w64\x86_64-7.3.0-win32-seh-rt_v6-rev0\mingw64\bin`, depending on the version you've installed. Proceed by clicking `Ok`.
 
 4. Under the `User variables for (YourComputersName)`, proceed to `Path` by double clicking or using the method explained above.
 
@@ -154,7 +154,7 @@ MinGW-w64:
                 "_DEBUG",
                 "UNICODE"
             ],
-            "compilerPath": "C:/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/g++.exe",
+            "compilerPath": "C:/mingw-w64/x86_64-7.3.0-win32-seh-rt_v6-rev0/mingw64/bin/g++.exe",
             "intelliSenseMode": "gcc-x64",
             "browse": {
                 "path": [
