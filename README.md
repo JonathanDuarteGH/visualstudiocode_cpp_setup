@@ -283,7 +283,7 @@ MinGW-w64:
 
 - Delete the `main.exe` file. 
 
-- Begin building the `main.cpp` program by pressing `Ctrl+Shift+B`.
+- Begin building the `main.cpp` program by pressing `Ctrl+Shift+B` on the opened file.
 
 - Click on the "Debug" Icon and click on your workspace from the drop down arrow.
 
