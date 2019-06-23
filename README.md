@@ -305,7 +305,7 @@ MinGW-w64:
 
 ### Why am I'm getting a “/bin/bash: [command] command not found” after setting up tasks.json and c_cpp_properties.json?
 
-- This is because you are not setting your paths correctly. Please revisit [`Configuring the compiler PATH`](###-Configuring-the-compiler-PATH) to set it up exactly as it is written (i.e: did your **restart** your machine?).
+- This is because you are not setting your paths correctly. Please revisit [`Configuring the compiler Path`](###-Configuring-the-compiler-Path) to set it up exactly as it is written (i.e: did your **restart** your machine?).
 
 ### How do I know if MinGW/MinGW-w64 is installed correctly?
 
