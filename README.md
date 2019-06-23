@@ -57,7 +57,7 @@
 
 **Please read carefully. Any of the steps not taken will yield unexpected errors.**
 
-1. In the Windows 10 search box, type `path`. Then choose `Edit the system environment variables` from the results list.
+1. In the Windows 10 search box, type "Path". Then choose `Edit the system environment variables` from the results list.
 
 2. Scroll down under `System variables` and look for `Path`. Double click it. (You can also click on `Path` once, then click on `Edit`).
 
@@ -305,7 +305,7 @@ MinGW-w64:
 
 ### Why am I'm getting a “/bin/bash: [command] command not found” after setting up tasks.json and c_cpp_properties.json?
 
-- This is because you are not setting your paths correctly. Please revisit [`Configuring the compiler Path`](###-Configuring-the-compiler-Path) to set it up exactly as it is written (i.e: did your **restart** your machine?).
+- This is because you are not setting your paths correctly. Please revisit [`Configuring the compiler path`](###-Configuring-the-compiler-path) to set it up exactly as it is written (i.e: did your **restart** your machine?).
 
 ### How do I know if MinGW/MinGW-w64 is installed correctly?
 
